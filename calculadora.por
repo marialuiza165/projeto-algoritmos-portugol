@@ -44,3 +44,12 @@ fimalgoritmo
 
 
 
+Bash
+
+git add calculadora.por
+
+git commit -m "Configuração inicial da estrutura do algoritmo em Portugol"
+
+git remote add origin https://github.com/seu-usuario/projeto-algoritmos-portugol.git
+git branch -M main
+git push -u origin main
